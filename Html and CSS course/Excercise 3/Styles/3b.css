@@ -1,0 +1,14 @@
+.Amazon {
+  background-color: rgb(252, 216, 20);
+  border: none;
+  width: 150px;
+  height: 40px;
+  border-radius: 20px;
+  cursor: pointer;
+  font-weight: bold;
+  transition: background-color 0.15s;
+}
+
+.Amazon:hover {
+  background-color: rgb(250, 199, 61);
+}

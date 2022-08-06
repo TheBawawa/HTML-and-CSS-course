@@ -1,0 +1,9 @@
+.Amazon {
+  background-color: rgb(252, 216, 20);
+  border: none;
+  width: 150px;
+  height: 40px;
+  border-radius: 20px;
+  cursor: pointer;
+  font-weight: bold;
+}

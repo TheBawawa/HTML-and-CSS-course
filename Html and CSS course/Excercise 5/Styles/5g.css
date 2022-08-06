@@ -1,0 +1,22 @@
+p{
+  font-family: Arial, Helvetica, sans-serif;
+  margin-bottom: 4px;
+  margin-top: 3px;
+}
+
+.user {
+  font-weight: bold;
+}
+.user-code {
+  color: gray;
+  font-weight: normal;
+}
+
+.text {
+  width: 470;
+  margin-bottom: 15px;
+}
+
+.new-user {
+  color: rgb(75, 142, 225);
+}

@@ -1,0 +1,62 @@
+.Stock {
+  color: rgb(0,118,0);
+  font-weight: bold;
+}
+
+.Shoes {
+  font-weight: bold;
+  font-size: 30;
+}
+
+.Cart {
+  background-color: rgb(255,216,20);
+  border: none;
+  font-weight: bold;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 20px;
+  margin-right: 12;
+  cursor: pointer;
+  transition: background-color 0.15s;
+}
+
+.Buy {
+  background-color: rgb(255,164,28);
+  border: none;
+  font-weight: bold;
+  padding-left: 35px;
+  padding-right: 35px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 20px;
+  cursor: pointer;
+  transition: background-color 0.15s;
+}
+
+.Amazon {
+  color: rgb(0,113,133);
+  cursor: pointer;
+  transition: color 0.15s
+}
+
+.Amazon:hover {
+  color: rgb(212, 150, 28)
+}
+
+.Cart:hover {
+  background-color:rgb(250, 199, 61);
+}
+
+.Cart:active {
+  opacity: 0.5;
+}
+
+.Buy:hover {
+  background-color: rgb(213, 137, 24)
+}
+
+.Buy:active {
+  opacity: 0.5;
+}

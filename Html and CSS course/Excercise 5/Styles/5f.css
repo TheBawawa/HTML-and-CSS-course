@@ -1,0 +1,28 @@
+p{
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 5px;
+  margin-bottom: 8px;
+  font-weight: bold;
+}
+
+.money {
+  font-size: 30px;
+}
+.type {
+  color: gray;
+  font-size: 18px;
+  font-weight: normal;
+}
+
+.won {
+  color: rgba(27, 124, 27, 0.833);
+}
+.after {
+  color: gray;
+  font-size: 20px;
+}
+
+.lost {
+  color: rgb(172, 5, 5);
+  font-size: 18px;
+}

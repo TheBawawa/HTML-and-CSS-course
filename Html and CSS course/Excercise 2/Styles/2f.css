@@ -1,0 +1,39 @@
+.Stock {
+  color: rgb(0,118,0);
+  font-weight: bold;
+}
+
+.Shoes {
+  font-weight: bold;
+  font-size: 30;
+}
+
+.Cart {
+  background-color: rgb(255,216,20);
+  border: none;
+  font-weight: bold;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 20px;
+  margin-right: 12;
+  cursor: pointer;
+}
+
+.Buy {
+  background-color: rgb(255,164,28);
+  border: none;
+  font-weight: bold;
+  padding-left: 35px;
+  padding-right: 35px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 20px;
+  cursor: pointer;
+}
+
+.Amazon {
+  color: rgb(0,113,133);
+  cursor: pointer;
+}
