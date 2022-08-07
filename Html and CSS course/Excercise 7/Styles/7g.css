@@ -1,0 +1,30 @@
+.pfp {
+  vertical-align: top;
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+  border-radius: 25px;
+  vertical-align: middle;
+}
+
+.tweet-bar {
+  vertical-align: middle;
+  font-size: 15px;
+  border: none
+}
+
+.tweet {
+  background-color: rgb(29, 155, 240);
+  color: white;
+  border: none;
+  border-radius: 18px;
+  font-size: 13px;
+  
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+
+  vertical-align: middle;
+  font-weight: bold;
+}

@@ -1,0 +1,12 @@
+.email-bar {
+  display: block;
+}
+
+.name-bar {
+  display: block;
+}
+
+input {
+  margin-bottom: 5px;
+  margin-top: 5px;
+}

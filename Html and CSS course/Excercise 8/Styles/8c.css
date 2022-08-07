@@ -1,0 +1,16 @@
+.SB {
+  font-size: 20px;
+  margin-left: 50px;
+  margin-top: 20px;
+  border: none;
+  box-shadow: 0px 1px 7px rgba(0, 0, 0, 0.20);
+  border-radius: 20px;
+  width: 470px;
+  padding-left: 20px;
+  height: 40px;
+}
+
+.google {
+  margin-left: 150px;
+  margin-top: 20px;
+}

@@ -1,0 +1,22 @@
+.ad {
+  background-color: rgb(62, 60, 60);
+  width: 350px;
+
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.install {
+  color: white;
+  font-weight: bold;
+}
+
+.text {
+  color: rgb(151, 149, 149);
+}
+
+p {
+  font-family: Arial, Helvetica, sans-serif;
+}
