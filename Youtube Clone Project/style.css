@@ -1,0 +1,48 @@
+p {
+  font-family: Roboto;
+  margin-top: 0px;
+  margin-bottom: 5px;
+}
+
+.video-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  column-gap: 16px;
+  row-gap: 38px;
+}
+
+.video-title {
+  color: black;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 24px;
+  margin-bottom: 8px;
+}
+
+.search-bar {
+  display: block;
+}
+
+.thumbnail {
+  width: 100%;
+}
+.thumbnail-row {
+  margin-bottom: 12px;
+}
+
+.video-info-grid {
+  display: grid;
+  grid-template-columns: 50px 1fr;
+}
+
+.profile-picture {
+  width: 40px;
+  border-radius: 25px;
+}
+
+.video-author,
+.video-stats {
+  color: gray;
+  font-size: 14px;
+  
+}
