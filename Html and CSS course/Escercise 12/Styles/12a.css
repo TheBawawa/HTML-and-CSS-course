@@ -1,0 +1,14 @@
+.flexbox {
+  display: flex;
+  flex-direction: row;
+}
+
+.boxa {
+  background-color: lightblue;
+  width: 200px;
+}
+
+.boxb {
+  background-color: lightpink;
+  width: 75px;
+}
