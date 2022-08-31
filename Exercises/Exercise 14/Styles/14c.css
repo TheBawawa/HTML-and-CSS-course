@@ -3,10 +3,10 @@ body {
 }
 
 .box {
-    color: white;
     background-color: black;
-
     position: fixed;
-    right: 20px;
-    bottom: 20px;
+    right: 0px;
+    bottom: 0px;
+    top: 0px;
+    left: 0px;
 }

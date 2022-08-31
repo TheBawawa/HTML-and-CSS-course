@@ -1,0 +1,14 @@
+body {
+    height: 3000px;
+}
+
+.box {
+    color: white;
+    background-color: rgba(0, 128, 0, 0.856);
+    width: 100px;
+
+    position: fixed;
+    right: 0px;
+    bottom: 0px;
+    top: 0px;
+}
