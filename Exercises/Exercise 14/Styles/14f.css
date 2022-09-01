@@ -1,0 +1,80 @@
+body {
+    font-family: Roboto;
+    height: 1000px;
+}
+
+p {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.layout {
+    display: flex;
+    flex-direction: row;
+}
+
+.friends {
+    background-color: rgb(43, 40, 40);
+    width: 80px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 15px;
+    
+    position: fixed;
+    left: 0px;
+    bottom: 0px;
+    top: 0px;
+}
+
+.pfp {
+    width: 55px;
+    height: 55px;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 50%;
+
+    margin-bottom: 8px;
+    margin-top: 5px;
+}
+
+.channels {
+    background-color: rgb(56, 53, 53);
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    width: 140px;
+
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+
+    top: 0px;
+    left: 80px;
+    bottom: 0px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 10px;
+    color: white;
+    align-items: center;
+}
+
+.info {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.plus {
+    background-color: rgb(56, 53, 53);
+    border: none;
+    font-size: 32px;
+    color: rgb(151, 151, 151);;
+}
+
+.channel {
+    color: rgb(151, 151, 151);
+    padding-bottom: 20px;
+}
