@@ -1,0 +1,32 @@
+body {
+    height: 2000px;
+    font-family: Arial;
+}
+
+.box {
+    position: relative;
+    width: 310px;
+    height: 300px;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+.product {
+    width: 310px;
+    height: 300px;
+}
+
+.sale {
+    color: white;
+    background-color: black;
+    font-size: 15px;
+
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+    position: absolute;
+    top: 10px;
+    right: 0px;
+}

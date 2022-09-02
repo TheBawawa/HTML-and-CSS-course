@@ -1,0 +1,13 @@
+body {
+    height: 3000px;
+}
+
+.box {
+    background-color: gray;
+    width: 260px;
+    height: 150px;
+
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+}
