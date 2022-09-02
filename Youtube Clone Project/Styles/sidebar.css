@@ -1,9 +1,30 @@
 .sidebar {
     position: fixed;
-    background-color: lightblue;
-    width: 72px;
-    
+    width: 75px;
+    background-color: white;
+    font-family: Roboto, Arial;
+    z-index: 200;
+
     left: 0px;
     bottom: 0px;
     top: 55px;
+}
+
+.sidebar-box {
+    height: 76px;
+    font-size: 11px;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.sidebar-box:hover {
+    background-color: lightgrey;
+}
+
+.sidebar-box img {
+    height: 28px;
+    margin-bottom: 4px;
 }

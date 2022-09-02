@@ -7,6 +7,12 @@ p {
 body {
   margin: 0px;
   padding-top: 80px;
-  padding-left: 85px;
+  padding-left: 95px;
+  padding-right: 24px;
   height: 1000px;
+  background-color: rgb(247, 243, 243);
+}
+
+div {
+  font-family: Roboto, Arial;
 }
